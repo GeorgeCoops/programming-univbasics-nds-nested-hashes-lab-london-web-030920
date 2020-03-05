@@ -12,7 +12,7 @@ def assembled_aoh
   array = [
     DON_G
     JOELLE_VD
-    PAT_M 
+    PAT_M
     KATE_G
     BRUCE_G
   ]
